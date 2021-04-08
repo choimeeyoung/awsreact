@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import PropTypes from 'prop-types';
-import Header from "../components/layout/Header";
+import Header from "../components/layout/header";
 const _app = ({ Component })=>{
     const [windowSize,setWindowSize]=useState(0);
 
