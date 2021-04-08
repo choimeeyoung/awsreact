@@ -1,4 +1,4 @@
-const clubArray = [
+const club_array = [
     ["서울","seoul","https://m.cafe.naver.com/ca-fe/web/cafes/24485008/menus/423"],
     ["인천","incheon","https://m.cafe.naver.com/ca-fe/web/cafes/24485008/menus/425"],
     ["경기","gyeonggi","https://m.cafe.naver.com/ca-fe/web/cafes/24485008/menus/424"],
@@ -17,4 +17,4 @@ const clubArray = [
     ["정액제클럽","membership","https://m.cafe.naver.com/ca-fe/web/cafes/24485008/menus/612"]
 ];
 
-export default clubArray;
+export default club_array;
