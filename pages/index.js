@@ -2,7 +2,7 @@ import React from 'react';
 const Index = () => {
     return(
         <>
-            <h1>MainPage</h1>
+            <h1>MainPage입니다.</h1>
         </>
     )
 }
