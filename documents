@@ -1,0 +1,3 @@
+1.모든 페이지에서 공통 부분 => _app.js 에 작성 / _app.js 는 pages 들의 공통 부분
+2.특정 Page 끼리 공통인 부분 => component 를 만들어서 감싸 주면 됨 ex)AppLayout.js / Layout 은 일부 pages 에서 공통인 부분
+3._app.js = index.js 의 부모 component
